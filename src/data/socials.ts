@@ -19,8 +19,8 @@ export const socials: SocialLink[] = [
   {
     platform: 'github',
     label: 'GitHub',
-    href: 'https://github.com/dilshodmackbook-sketch',
-    handle: 'dilshodmackbook-sketch',
+    href: 'https://github.com/David-2002065',
+    handle: 'David-2002065',
   },
   {
     platform: 'linkedin',
